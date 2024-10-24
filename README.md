@@ -1,4 +1,4 @@
-### Hi there 👋, I'm @qedkymish
+### Hi there 👋, I'm Qusay.
 
 - 👀 I’m interested in coding, software development, and optimizing workflows using technology.
 - 🌱 I’m currently learning C++, with a focus on OOP concepts and project development.
