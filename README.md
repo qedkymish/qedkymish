@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-### About me:
+### :man_technologist: About me:
 
 - 👀 I’m interested in coding, software development, and optimizing workflows using technology.
 - 🌱 I’m currently learning C++, with a focus on OOP concepts and project development.
