@@ -1,21 +1,22 @@
-### Hi there 👋,
+### Hi there 👋
 
-### :man_technologist: About me:
+### 👨‍💻 About me:
 
-- 👀 I’m interested in coding, software development, and optimizing workflows using technology.
-- 🌱 I’m currently learning C++, with a focus on OOP concepts and project development.
-- 💼 I’m pursuing a Computer Science degree at Grossmont College and planning to transfer to a top university like Stanford, UCB, UCLA, or UCSD.
-- 💞️ I’m looking to collaborate on open-source projects, especially those related to game development, database applications, or innovative software solutions.
-- 📫 How to reach me: Feel free to connect with me via email at q.edkymish@protonmail.com.
-- ⚡ Fun fact: I’m passionate about fitness and currently working towards bench pressing 225 lbs!
-
+- 👀 Interested in systems programming, algorithms, and building efficient software.
+- 🧠 Currently strengthening my foundation in C++, data structures, and computer architecture.
+- 🎓 Computer Science student at Grossmont College.
+- 🔬 Exploring the mathematical foundations behind machine learning and AI.
+- 💞 Open to collaborating on open-source tools, systems projects, or data-driven applications.
+- 📫 Reach me at: q.edkymish@protonmail.com
+- ⚡ Fun fact: Working toward a 225 lb bench press.
+  
 ---
 
 ### :hammer_and_wrench: Languages:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cPlusPlus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -23,7 +24,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qedkymish&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qedkymish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for stopping by! 😊
