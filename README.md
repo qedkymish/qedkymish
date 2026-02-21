@@ -3,7 +3,7 @@
 ### 👨‍💻 About me:
 
 - 👀 Interested in systems programming, algorithms, and building efficient software.
-- 🧠 Currently strengthening my foundation in C++, data structures, and computer architecture.
+- 🧠 Building solid systems-level foundations through C++, data structures, and computer architecture.
 - 🎓 Computer Science student at Grossmont College.
 - 🔬 Exploring the mathematical foundations behind machine learning and AI.
 - 💞 Open to collaborating on open-source tools, systems projects, or data-driven applications.
@@ -20,9 +20,5 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qedkymish&theme=dark)](https://git.io/streak-stats)
 
 Thanks for stopping by! 😊
