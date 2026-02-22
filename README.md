@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Qusay%20Edkymish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20SStudent%20•%20Systems%20•%20Algorithms&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Qusay%20Edkymish&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20•%20Systems%20•%20Algorithms&descAlignY=58&descSize=18"/>
 </p>
 
 ### 👨‍💻 About me:
