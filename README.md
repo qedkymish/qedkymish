@@ -6,7 +6,7 @@
 - 🎓 Computer Science junior at **UC San Diego**, transferred from Grossmont College with a 3.94 GPA.
 - 🔬 Joining UCSD CSE's **Early Research Scholars Program (ERSP)** for 2026–27.
 - 💻 I work in **C++**: object-oriented design, data structures, and computer architecture.
-- 🧩 Most of what I build is systems-adjacent — state machines, rule validation, and file-backed persistence.
+- 🧩 Most of what I build is systems-adjacent: state machines, rule validation, and file-backed persistence.
 - 🎯 Currently seeking a **Summer 2027 software engineering internship**.
 - 📫 Reach me at **qedkymish@ucsd.edu** · [LinkedIn](https://www.linkedin.com/in/qusay-edkymish)
 - ⚡ Fun fact: I co-founded a tutoring center in Tripoli, Libya before moving to the US.
@@ -16,7 +16,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
